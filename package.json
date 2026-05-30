@@ -1,0 +1,16 @@
+{
+  "name": "editing-tools-for-pi",
+  "version": "1.0.0",
+  "description": "Advanced CRUD editing tools for Pi",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["extensions/index.ts"]
+  },
+  "dependencies": {
+    "diff": "^5.2.0"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "typebox": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "editing-suite",
+  "version": "0.1.0",
+  "description": "Advanced file editing tools for Pi",
+  "main": "index.ts",
+  "dependencies": {
+    "diff": "^5.2.0"
+  },
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
