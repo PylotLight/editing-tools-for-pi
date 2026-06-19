@@ -1,6 +1,6 @@
 {
   "name": "editing-tools-for-pi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Advanced CRUD editing tools for Pi",
   "keywords": ["pi-package"],
   "pi": {
