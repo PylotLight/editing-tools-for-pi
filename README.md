@@ -5,7 +5,7 @@ Advanced CRUD editing tools designed to extend pi's file manipulation capabiliti
 ## Installation
 
 ```bash
-pi install git:github.com/yourusername/editing-tools-for-pi
+pi install git:github.com/PylotLight/editing-tools-for-pi
 ```
 
 ## Features
